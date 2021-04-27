@@ -1,0 +1,10 @@
+.vscode
+__pycache__*
+localconfig.py
+*.sqlite
+data*
+*.pdf
+dist/*
+build/*
+quotedb.egg*
+
